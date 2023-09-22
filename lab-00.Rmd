@@ -9,6 +9,7 @@ output: html_document
 
 ```{r load-packages, message=FALSE}
 library(tidyverse) 
+
 ```
 
 ### Exercises 16-17
